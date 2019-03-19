@@ -7,3 +7,4 @@
 `pip istall git+https://github.com/Rotondwatshipota1/example-python-parckage.git`
 
 `pip install --uprade git+https://github.com/Rotondwatshipota1/example-python-package.git`
+# mypackage
